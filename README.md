@@ -18,4 +18,4 @@ It is the process of fixing and resolving issues identified in the Cleaning proc
 The final DataFrame called 'twitter_archive_clean' with the correct data types. The dataset is then stored in a csv file called 'twitter_archive_master.csv'. At this point, the data was successfully wrangled and therefore ready for analysis and visualization.
 
 ### 5. Analysis & Visualization
-These steps are not part of data wrangling process. However, it cannot reflect correct and accurate insights without performing data wrangling first.
+These steps are not part of data wrangling process. However, it cannot reflect correct and accurate insights without performing data wrangling first. Visualizations and insights are provided in ‘act_report.pdf
